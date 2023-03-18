@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 💫 About Me:<br>
-🔭 Hi there! I'm a Software Quality Assurance (SQA) Engineer<br>👯 I have experience in manual and automated testing <br>🤝Feel free to browse my repositories and projects <br>🌱 I'm familiar with Selenium, JUnit, and TestNG<br>💬 Passionate about Quality SQA<br>⚡ Let's connect!
+🔭 Hi there! I'm learning Software Quality Assurance (SQA) Engineering <br>👯 I have experience in manual and automated testing <br>🤝Feel free to browse my repositories and projects <br>🌱 I'm familiar with Selenium, JUnit, and TestNG<br>💬 Passionate about SQA <br>⚡ Let's connect!
 
 
 ## 🌐 Socials:
